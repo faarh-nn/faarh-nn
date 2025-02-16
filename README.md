@@ -8,3 +8,11 @@ Saya sangat percaya bahwa kombinasi statistik, sains data, dan kecerdasan buatan
 
 Mari terhubung dan berdiskusi tentang bagaimana kita dapat memanfaatkan kekuatan data untuk mendorong inovasi dan membawa perubahan!<br>
 [Linkedin](www.linkedin.com/in/faarh-nn)
+
+### Github Statistics
+<p align="left">
+<a href="https://github.com/faarh-nn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faarh-nn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faarh-nn&layout=compact&theme=algolia"/>
+</a>
+</p>
